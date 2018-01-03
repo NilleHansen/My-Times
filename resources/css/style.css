@@ -2,7 +2,6 @@ body {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
-  color: mediumaquamarine;
   margin: 0;
 }
 
@@ -59,9 +58,11 @@ a {
 .column.medium {
   width: 300px;
   flex: auto;
+  border: 3px black;
 }
 
 .column.small {
   width: 240px;
   flex: auto;
+  border: 3px black;
 }
