@@ -67,15 +67,19 @@ a {
   flex: auto;
 }
 
+.column {
+  flex-direction: column;
+  margin-right: 32px;
+}
 .column.medium {
   width: 300px;
-  flex: auto;
   border: 3px solid black;
 }
 
 .column.small {
   width: 240px;
-  flex: auto;
+  flex-direction: column;
+  margin-right: 32px
   border: 3px solid black;
 }
 
