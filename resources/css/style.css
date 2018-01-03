@@ -5,6 +5,17 @@ body {
   margin: 0;
 }
 
+.content {
+  display: flex;
+  width: 1232px;
+  margin: 0 auto 78 auto;
+  padding-top: 116px;
+}
+
+div {
+  border: 1px solid black;
+}
+
 header {
   display: flex;
   align-items: center;
