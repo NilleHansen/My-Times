@@ -49,3 +49,19 @@ nav span {
 a {
   color: black
 }
+
+.column.large {
+  width: 630px;
+  border: 1px black;
+  flex: auto;
+}
+
+.column.medium {
+  width: 300px;
+  flex: auto;
+}
+
+.column.small {
+  width: 240px;
+  flex: auto;
+}
