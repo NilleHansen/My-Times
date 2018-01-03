@@ -63,7 +63,6 @@ a {
 
 .column.large {
   width: 630px;
-  flex: auto;
 }
 
 .column {
@@ -78,8 +77,6 @@ a {
 
 .column.small {
   width: 240px;
-  flex-direction: column;
-  margin-right: 32px
 }
 
 p {
