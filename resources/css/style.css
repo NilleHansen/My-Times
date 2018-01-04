@@ -91,6 +91,8 @@ nav span {
 p {
   display: block;
   color: black;
+  font-family: georgia;
+  font-size: 17px;
 }
 
 .lead-story .image-content {
@@ -100,7 +102,7 @@ margin-top: 0;
 margin-left: 20px;
 font-size: 40px;
 text-align: left;
-color: black;
+color: white;
 }
 
 
