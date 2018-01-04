@@ -100,6 +100,7 @@ p {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
 width: 360px;
 margin-top: 0;
+margin-left: 20px;
 font-size: 40px;
 text-align: left;
 }
@@ -113,4 +114,8 @@ text-align: left;
   font-weight: bold;
   color: white;
 
+}
+
+.fall-cancelled .image-content {
+ background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
 }
