@@ -68,10 +68,6 @@ nav span {
   padding: 20px 10px;
 }
 
-a {
-  color: black
-}
-
 
 
 .column {
@@ -94,6 +90,7 @@ a {
 
 p {
   display: block;
+  color: black;
 }
 
 .lead-story .image-content {
@@ -103,6 +100,7 @@ margin-top: 0;
 margin-left: 20px;
 font-size: 40px;
 text-align: left;
+color: black;
 }
 
 
